@@ -3,6 +3,7 @@ const countries = {
     "es-ES": "Spanish",
     "fr-FR": "French",
     "pt-PT": "Portuguese",
+    "ro-RO": "Romanian",
     "de-DE": "German",
     "de-AT": "Austrian German",
     "it-IT": "Italian",
