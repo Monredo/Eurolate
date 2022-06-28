@@ -19,7 +19,6 @@ const countries = {
     "bs-BA": "Bosnian",
     "mk-MK": "Macedonian",
     "hr-HR": "Croatian",
-    "cnr-ME": "Montenegrin",
     "sq-AL": "Albanian",
     "tr-TR": "Turkish",
     "tr-CY": "Cypriot Turkish",
