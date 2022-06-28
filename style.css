@@ -29,13 +29,16 @@
   font-family: 'Burbank Small', sans-serif;
 }
 
+body {
+  background-color: #060606;
+}
+
 .container {
   max-width: 690px;
   width: 100%;
   padding: 30px;
-  background: #fff;
+  background-color: #101010;
   border-radius: 7px;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.01);
 }
 .wrapper {
   border-radius: 5px;
@@ -59,6 +62,7 @@
   font-size: 18px;
   padding: 10px 15px;
   border-radius: 5px;
+  color: white;
 }
 .text-input textarea::placeholder {
   color: #b7b6b6;
@@ -92,7 +96,7 @@
   border-left: 1px solid #ccc;
 }
 .controls .row select {
-  color: #333;
+  color: #fff;
   border: none;
   outline: none;
   font-size: 18px;
