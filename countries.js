@@ -14,5 +14,6 @@ const countries = {
     "ga-IE": "Irish",
     "pl-PL": "Polish",
     "lb-LU": "Luxembourgish",
-    "ca-ES": "Catalan"
+    "ca-ES": "Catalan",
+    "rm-CH": "Romansh"
 }
