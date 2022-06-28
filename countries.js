@@ -27,7 +27,6 @@ const countries = {
     "gd-GB": "Scottish Gaelic",
     "kl-GL": "Greenlandic",
     "mt-MT": "Maltese",
-    "me": "Montengrin",
     "se-NO": "Northern Sámi",
     "is-IS": "Icelandic",
     "pl-PL": "Polish",
