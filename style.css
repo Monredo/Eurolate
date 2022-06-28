@@ -145,7 +145,11 @@ body {
   margin-top: 20px;
   font-size: 17px;
   border-radius: 5px;
-  background: #5372F0;
+  background-color: #8700bf;
+  transition: .1s ease;
+}
+.container button:hover {
+  background-color: #61107e;
 }
 @media (max-width: 660px) {
   .container{
