@@ -1,6 +1,30 @@
+@font-face {
+    font-family: 'Burbank Small';
+    src: local('Burbank Small Medium'), local('BurbankSmall-Medium'),
+        url('BurbankSmall-Medium.woff2') format('woff2'),
+        url('BurbankSmall-Medium.woff') format('woff'),
+        url('BurbankSmall-Medium.ttf') format('truetype'),
+        url('BurbankSmall-Medium.svg#BurbankSmall-Medium') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Burbank Small';
+    src: local('Burbank Small Bold'), local('BurbankSmall-Bold'),
+        url('BurbankSmall-Bold.woff2') format('woff2'),
+        url('BurbankSmall-Bold.woff') format('woff'),
+        url('BurbankSmall-Bold.ttf') format('truetype'),
+        url('BurbankSmall-Bold.svg#BurbankSmall-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: fallback;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Burbank', sans-serif;
+  font-family: 'Burbank Small', sans-serif;
 }
