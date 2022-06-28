@@ -31,6 +31,7 @@
 
 body {
   background-color: #060606;
+  color: white;
 }
 
 .container {
@@ -103,14 +104,19 @@ body {
   background: none;
   padding-left: 5px;
 }
+.controls .row option {
+  background-color: #060606;
+}
 .text-input textarea::-webkit-scrollbar {
   width: 4px;
 }
 .controls .row select::-webkit-scrollbar {
-  width: 8px;
+  width: 9px;
+  height: 9px;
+  background: #060606;
 }
 .text-input textarea::-webkit-scrollbar-track, .controls .row select::-webkit-scrollbar-track {
-  background: #fff;
+  background: #060606;
 }
 .text-input textarea::-webkit-scrollbar-thumb {
   background: #ddd;
@@ -119,7 +125,6 @@ body {
 .controls .row select::-webkit-scrollbar-thumb {
   background: #999;
   border-radius: 8px;
-  border-right: 2px solid #ffffff;
 }
 .controls .exchange {
   color: #adadad;
