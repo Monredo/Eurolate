@@ -33,6 +33,8 @@ const countries = {
     "is-IS": "Icelandic",
     "pl-PL": "Polish",
     "nl-NL": "Dutch",
+    "eu-ES": "Basque",
+    "ast-ES": "Asturian",
     "lb-LU": "Luxembourgish",
     "ca-ES": "Catalan",
     "rm-CH": "Romansh",
