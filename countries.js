@@ -1,6 +1,6 @@
 const countries = {    
-    "az-AZ": "Azeri"
-    "hy-AM": "Armenian"
+    "az-AZ": "Azeri",
+    "hy-AM": "Armenian",
     "sq-AL": "Albanian",
     "bs-BA": "Bosnian",
     "be-BY": "Belarusian",
